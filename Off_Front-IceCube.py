@@ -192,6 +192,8 @@ def FAQ():
     time.sleep(1)
     print(" Directory: [ Legal&License -> Privacy_Policy ]")
     Resume()
+    print("\nIf you like this program, please give it a star on GitHub!")
+    Resume()
     time.sleep(3)
     input("You will now return back to Main Menu:\n")
     main_menu()
