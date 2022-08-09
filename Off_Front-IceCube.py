@@ -29,7 +29,7 @@ from urllib.request import urlopen
 def InvalidInput():
     print("Invalid Input, please enter a number option!\n")
 
-# Functioj below allows for cross-platform clearing of the screen
+# Function below allows for cross-platform clearing of the screen
 def ClearScreen():
     # If Windows OS, 'clr'
     if os.name == 'nt':
