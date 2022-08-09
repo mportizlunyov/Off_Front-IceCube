@@ -219,5 +219,6 @@ END OF TERMS AND CONDITIONS
 ---------
 
 If you made it this far, I hope that you will enjoy this program!
+Please give this project a star on GitHub!
 
 Written by Mikhail Patricio Ortiz-Lunyov
